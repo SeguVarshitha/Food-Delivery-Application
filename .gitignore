@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Env files
+.env
+*.env
+
+# Java / Spring Boot
+target/
+*.log
+
+# Node
+node_modules/
+build/
+
+# OS files
+*.DS_Store
